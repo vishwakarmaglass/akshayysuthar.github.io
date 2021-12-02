@@ -1,0 +1,23 @@
+{
+  "name": "Akshay Suthar",
+  "version": "1.0.0",
+  "description": "A mobile, desktop and website App with the same code",
+  "author": "Akshay Suthar <akshaysuthar05@gmail.com> (http://github.com/akshay-so)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akshay-so/akshay-so.github.io"
+  },
+  "homepage": "https://github.com/akshay-so/akshay-so.github.io",
+  "keywords": [
+    "react",
+    "website",
+  ],
+  "src": "./",
+  "test": "./test",
+  "dist": "./dist",
+  "mainInput": "main",
+  "mainOutput": "main",
+  "main": "index.desktop.html",
+  
+  },
